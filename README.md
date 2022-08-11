@@ -8,6 +8,8 @@ I'm Taylor David, a freelance Shopify developer.
 - 💬 Ask me about Shopify store setup. 
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
+- Fun facts: I'm a western classical music lover. I have traveled to Japan including cities such as Tokyo, Osaka, Kyoto, and Hiroshima. 
+- I love geography too. 
 
 <h3>I code in and use the following languages, platforms, and technologies:</h3>
 
