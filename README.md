@@ -1,6 +1,6 @@
 Hi there! 👋 Thanks for stopping by. 
 
-Welcome to my page!
+Welcome to my GitHub page!
 I'm Taylor David, a freelance Shopify developer. 
 
 - 🔭 I’m currently working on Shopify projects.
