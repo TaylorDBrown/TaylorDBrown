@@ -1,4 +1,4 @@
-Hi! 👋
+Hi There! 👋 Thanks for stopping by. 
 
 Welcome to my page!
 I'm Taylor David, a freelance Shopify developer. 
