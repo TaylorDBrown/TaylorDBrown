@@ -9,4 +9,4 @@ I'm Taylor, a freelance Shopify developer.
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
 
-<h3>Things I code with</h3>
+<h3>I code the following languages and platforms:</h3>
