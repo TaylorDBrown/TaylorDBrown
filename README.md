@@ -8,3 +8,5 @@ I'm Taylor, a freelance Shopify developer.
 - 💬 Ask me about Shopify store setup. 
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
+
+<h3>Things I code with</h3>
