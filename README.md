@@ -20,8 +20,6 @@ I'm Taylor David, a freelance Shopify developer.
 <!--  Shopify icon goes here -->
 <!--  WordPress icon goes here -->
 
- <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  
 <!--   VS Code icon goes here -->
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
  
