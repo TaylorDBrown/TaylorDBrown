@@ -1,7 +1,7 @@
 Hi there! 👋 Thanks for stopping by. 
 
 Welcome to my GitHub page!
-I'm Taylor David, a freelance Shopify developer. 
+I'm Taylor David Brown, a freelance Shopify developer. 
 
 - 🔭 I’m currently working on Shopify projects.
 - 🌱 I’m currently learning JavaScript.
