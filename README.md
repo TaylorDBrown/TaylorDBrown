@@ -9,7 +9,7 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 - 😄 Pronouns: he/him
 - Fun facts: I have traveled to Japan including cities such as Tokyo, Osaka, Kyoto, and Hiroshima. I love geography too. 
 
-<h3>I work in and use the following languages and technologies:</h3>
+<h3>I work in Shopify, Liquid, WordPress and use the following additional languages and technologies:</h3>
 
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
