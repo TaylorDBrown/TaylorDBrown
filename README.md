@@ -37,5 +37,5 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <button class="LinkedIn"><a href="https://www.linkedin.com/in/t-bro/">LinkedIn</a></button>
 
-<img alt="codepen" title="CodePen" width="40px" src="https://findicons.com/files/icons/2779/simple_icons/1024/codepen_1024_black.png"/>
+<img alt="codepen" title="CodePen" width="40px" src="https://findicons.com/files/icons/2779/simple_icons/1024/codepen_1024_black.png" target="blank"/>
 
