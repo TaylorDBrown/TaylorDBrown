@@ -30,7 +30,7 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
-<button style="color: blue;" class="LinkedIn"><a href="https://www.linkedin.com/in/t-bro/">LinkedIn</a></button>
+<img class="LinkedIn"><a href="https://www.linkedin.com/in/t-bro/">LinkedIn</a></>
 
 
 <br></br>
