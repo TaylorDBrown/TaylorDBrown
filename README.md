@@ -30,8 +30,6 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
-<img alt="GitHub" title="GitHub" width="40px" src="https://github.com/TaylorDBrown"/>
-
 <br></br>
 
 <!-- Insert my calendly link -->
