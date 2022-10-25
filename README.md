@@ -30,10 +30,12 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
-<button class="LinkedIn"><a href="https://www.linkedin.com/in/t-bro/">LinkedIn</a></button>
-
-
 <br></br>
 
 <!-- Insert my calendly link -->
 <!-- <a href="" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a> -->
+
+<button class="LinkedIn"><a href="https://www.linkedin.com/in/t-bro/">LinkedIn</a></button>
+
+<img alt="codepen" title="CodePen" width="40px" src="https://findicons.com/files/icons/2779/simple_icons/1024/codepen_1024_black.png"/>
+
