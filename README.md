@@ -15,7 +15,7 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
- <img alt="Shopify" title="Shopify" width="100px" src="https://logos-download.com/wp-content/uploads/2016/10/Shopify_logo_icon.png"/>
+ <img alt="Shopify" title="Shopify" width="80px" src="https://logos-download.com/wp-content/uploads/2016/10/Shopify_logo_icon.png"/>
 
  
  <img alt="Liquid" title="Liquid" width="100px" src="https://cdn.shopify.com/s/files/1/0533/2089/files/Shopify-liquid.jpg?v=1585598279"/>
