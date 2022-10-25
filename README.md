@@ -26,7 +26,7 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />
 
-<img title="VS Code" alt="VS Code" width="25px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
 <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
