@@ -32,6 +32,5 @@ I'm Taylor David Brown, a Front-End Shopify developer.
 
 <br></br>
 
-You can best reach me at t.d.brown987@gmail.com
 
 
